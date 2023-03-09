@@ -1,8 +1,8 @@
-## Frontend (React) Developer 
+## Fullstack  Developer 
 
 👆Iam Abdelrahman. I has been creating 
-React Sites for 3 years. Iam 16 years old
-and I live in Germany.
+Full option Sites for 3 years. Iam 19 years old
+and I live in Germany. I worked in Companies like Rewe Groups.
 
 ## Languages 
 
@@ -16,12 +16,16 @@ I can Technologies in Frontend like:
 - Javascript 
 - React
 - Redux 
+- Npm
 - Firebase
 
 ## Backend Skills
 I like to use Technologies in Backend as :
 - PHP
 - MySQL
+- Laravel
+- nodejs
+- composer
 
 ## Experience 
 I created packages too in Npm like 2d-reactgam.
